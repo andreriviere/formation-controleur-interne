@@ -1,3 +1,3 @@
 # Tutoriel SQL
 
-:arrow_forward: [Diaporama](https://gaetan-varlet.github.io/tutoriel-sql/)
+:arrow_forward: [Diaporama](index.html)
