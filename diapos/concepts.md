@@ -1,12 +1,12 @@
 # Les concepts statistiques
 
-  1. La statistique  
-  2. La population  
-  3. Le caractère  
-  4. Les modalités du caractère  
-  5. La variable statistique  
-  6. Les effectifs  
-  7. Schéma récapitulatif
+  1. [La statistique](#/2/1)  
+  2. [La population](#/2/2)   
+  3. [Le caractère](#/2/3)   
+  4. [Les modalités du caractère](#/2/4)   
+  5. [La variable statistique](#/2/5)   
+  6. [Les effectifs](#/2/6)   
+  7. [Schéma récapitulatif](#/2/7)
 
 
 
@@ -38,7 +38,7 @@
 
 ## Le caractère
 
-> ** Définition **
+> ** Définition : **
 > Correspond à une caractéristique observable sur chacun des individus de la population étudiée. Ils peuvent être "quantitatifs" ou "qualitatifs".
 
 - Caractère qualitatif : non mesurable.
@@ -48,7 +48,7 @@
 
 ## Les modalités du caractère
 
-> ** Définition **
+> ** Définition : **
 > Ce sont les différents états (qualitatif) ou valeurs (quantitatif) du caractère.
 
 Les modalités doivent être :
@@ -69,7 +69,7 @@ Les modalités doivent être :
 
 ## Les effectifs
 
-> ** Définition **
+> ** Définition : **
 > L'*effectif* ou *fréquence absolue* correspond au nombre d'individus présentant une modalité donnée du caractère.
 
 | Cépage | Effectif |
