@@ -7,7 +7,8 @@
   5. [Caractère qualitatif](#/2/5)   
   6. [La variable statistique](#/2/6)   
   7. [Schéma récapitulatif](#/2/7)
-  7. [Les effectifs](#/2/8)
+  8. [Les effectifs](#/2/8)
+  9. [Comment lire un tableau statistique ?](#/2/9)
 
 
 
@@ -96,3 +97,23 @@ Les modalités doivent être :
 | Sauvignon | 7 000 |
 | Sémillon | 3 000 |
 | Muscadelle | 1 000 |
+
+----
+
+## Comment lire un tableau statistique ?  
+
+1. Réfléchir sur l'environnement du tableau.  
+    - Quels sont le titre et la source ?  
+    - De quand datent les données du tableau ?  
+2. Lire le tableau.  
+    - Déterminer la population étudiée.  
+    - Définir les variables d'intérêt.  
+    - Repérer les unités utilisées.  
+    - Donner un exemple de lecture d'un chiffre du tableau (une ou deux entrées ?).  
+    - Quelle est l'idée générale qui se dégage du tableau ?  
+    - Quels sont les chiffres atypiques du tableau ?  
+    - Repérer la nature des questions posées.    
+3. Analyser le tableau.
+    - Rédiger une phrase d'introduction pour présenter le tableau.  
+    - Rédiger une description du tableau en s'intéressant aux données significatives.  
+    - Rédiger un commentaire des faits que ces données mettent en évidence.  
