@@ -2,8 +2,9 @@
 
 1. [Environnement du tableau](#/3/1)  
 2. [Lecture du tableau](#/3/2)   
-3. [Analyse du tableau](#/3/3)   
-4. [Exercices](#/3/4)  
+3. [Analyse du tableau](#/3/3)  
+4. [Un exemple](#/3/4)  
+5. [Exercices](#/3/5)  
 
 ----
 
@@ -32,6 +33,16 @@
     - Rédiger une phrase d'introduction pour présenter le tableau.  
     - Rédiger une description du tableau en s'intéressant aux données significatives.  
     - Rédiger un commentaire des faits que ces données mettent en évidence.  
+
+----
+
+## Un exemple  
+
+| N° exploitation | Taille (ha) | Age du chef d'exploitation (années) | Culture dominante | Nombre de personnes employées |
+| :---:  |  :---:   | :---:  |  :---:   | :---:  |
+| Sauvignon | 7 000 |
+| Sémillon | 3 000 |
+| Muscadelle | 1 000 |
 
 ----
 

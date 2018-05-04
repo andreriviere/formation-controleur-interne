@@ -25,6 +25,10 @@
 
 ----
 
+![précipitations-brest](g1l1_01.jpg)  
+
+----
+
 ## La population
 
 > ** Définition : **
