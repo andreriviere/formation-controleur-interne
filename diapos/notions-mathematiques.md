@@ -1,9 +1,10 @@
 # Rappels de notions de mathématiques
 
-1. [Les arrondis](#/3/1)  
-2. [Les puissances de 10](#/3/2)
-3. [Les règles de priorité des opérations](#/3/3)
-4. [La proportionnalité](#/3/4)
+1. [Les arrondis](#/4/1)  
+2. [Les puissances de 10](#/4/2)
+3. [Les règles de priorité des opérations](#/4/3)
+4. [La proportionnalité](#/4/4)
+5. [Exercices](#/4/5)
 
 
 ----
@@ -58,3 +59,23 @@ Dans un tableau de proportionnalité, le rapport entre le nombre de la deuxième
 > ** Propriété : ** Dans un tableau de proportionnalité, les *produits en croix* sont égaux.   
 > Si b et d non nuls :  
 > a/b = c/d <=> a*d = b*c
+
+----
+
+## Exercices  
+
+[Exercice 1](exercice5.ods)  
+
+[Exercice 2](exercice6.ods)  
+
+[Exercice 3](exercice7.ods)  
+
+[Exercice 4](exercice8.ods)  
+
+[Exercice 5](exercice9.ods)  
+
+[Exercice 6](exercice10.ods)  
+
+[Exercice 7](exercice11.ods)  
+
+[Exercice 8](exercice12.ods)  

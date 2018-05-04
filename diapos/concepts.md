@@ -8,7 +8,6 @@
   6. [La variable statistique](#/2/6)   
   7. [Schéma récapitulatif](#/2/7)
   8. [Les effectifs](#/2/8)
-  9. [Comment lire un tableau statistique ?](#/2/9)
 
 
 
@@ -33,8 +32,7 @@
   - personnes
   - entreprises
   - logements
-  - véhicules
-  - ...  
+  - véhicules, etc...  
 
   L'individu ou l'élément est ce qu'on appelle l'*unité statistique*.  
   La *taille de la population* ou *effectif total* est le nombre d'unités statistiques de la population.  
@@ -97,23 +95,3 @@ Les modalités doivent être :
 | Sauvignon | 7 000 |
 | Sémillon | 3 000 |
 | Muscadelle | 1 000 |
-
-----
-
-## Comment lire un tableau statistique ?  
-
-1. Réfléchir sur l'environnement du tableau.  
-    - Quels sont le titre et la source ?  
-    - De quand datent les données du tableau ?  
-2. Lire le tableau.  
-    - Déterminer la population étudiée.  
-    - Définir les variables d'intérêt.  
-    - Repérer les unités utilisées.  
-    - Donner un exemple de lecture d'un chiffre du tableau (une ou deux entrées ?).  
-    - Quelle est l'idée générale qui se dégage du tableau ?  
-    - Quels sont les chiffres atypiques du tableau ?  
-    - Repérer la nature des questions posées.    
-3. Analyser le tableau.
-    - Rédiger une phrase d'introduction pour présenter le tableau.  
-    - Rédiger une description du tableau en s'intéressant aux données significatives.  
-    - Rédiger un commentaire des faits que ces données mettent en évidence.  
