@@ -11,17 +11,12 @@
 
 ## Les arrondis  
 
->** Définition **  
-> - Si x est positif:
->    - la valeur arrondie de x à l'unité est l'entier a tel que :   
->      a - 0,5 <= x < a + 0,5  
->    - la valeur arrondie de x au dixième est le nombre décimal a tel que :   
->      a - 0,05 <= x < a + 0,05 ...
-> - Si x est négatif:  
->    - la valeur arrondie de x à l'unité est l'entier a tel que :  
->      a - 0,5 < x <= a + 0,5  
->    - la valeur arrondie de x au dixième est le nombre décimal a tel que :   
->      a - 0,05 < x <= a + 0,05 ...
+L'arrondi arithmétique consiste à :  
+  1. choisir le dernier chiffre à conserver (l'unité dans le cas d'un arrondi à l'unité ou la première décimale dans le cas d'un arrondi au dixième près).  
+  2. augmenter ce chiffre d'une unité si le chiffre suivant vaut au moins 5.  
+  3. conserver ce chiffre si le suivant est strictement inférieur à 5.  
+
+   > Exemple : 3,046 arrondi aux centièmes vaut 3,05 (car 6 >= 5).  
 
 ----
 
@@ -64,18 +59,18 @@ Dans un tableau de proportionnalité, le rapport entre le nombre de la deuxième
 
 ## Exercices  
 
-[Exercice 1](exercice5.ods)  
+[Exercice 1](files/exercice5.ods)  
 
-[Exercice 2](exercice6.ods)  
+[Exercice 2](files/exercice6.ods)  
 
-[Exercice 3](exercice7.ods)  
+[Exercice 3](files/exercice7.ods)  
 
-[Exercice 4](exercice8.ods)  
+[Exercice 4](files/exercice8.ods)  
 
-[Exercice 5](exercice9.ods)  
+[Exercice 5](files/exercice9.ods)  
 
-[Exercice 6](exercice10.ods)  
+[Exercice 6](files/exercice10.ods)  
 
-[Exercice 7](exercice11.ods)  
+[Exercice 7](files/exercice11.ods)  
 
-[Exercice 8](exercice12.ods)  
+[Exercice 8](files/exercice12.ods)  

@@ -25,10 +25,6 @@
 
 ----
 
-![précipitations-brest](g1l1_01.jpg)  
-
-----
-
 ## La population
 
 > ** Définition : **
@@ -85,7 +81,7 @@ Les modalités doivent être :
 
 ## Schéma récapitulatif
 
-[Schéma](schema.odt)
+[Schéma](files/schema.odt)
 
 ----
 
@@ -99,3 +95,9 @@ Les modalités doivent être :
 | Sauvignon | 7 000 |
 | Sémillon | 3 000 |
 | Muscadelle | 1 000 |
+
+----
+
+## Exemples de statistiques descriptives
+
+[Exemple de tableau de données](http://www.agro-montpellier.fr/cnam-lr/statnet/mod1/Lec1/M1L1_INT.htm)

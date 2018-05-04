@@ -41,6 +41,12 @@
     height: 85px;
 }
 
+#precipit {
+    margin-top: 100px;
+    height: 300px;
+    width: 300px;
+}
+
 .reveal .slides {
     font-size: 30px;
 }

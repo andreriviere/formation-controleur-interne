@@ -48,10 +48,10 @@
 
 ## Exercices
 
-[Exercice 1](exercice1.ods)  
+[Exercice 1](files/exercice1.ods)  
 
-[Exercice 2](exercice2.ods)  
+[Exercice 2](files/exercice2.ods)  
 
-[Exercice 3](exercice3.ods)  
+[Exercice 3](files/exercice3.ods)  
 
-[Exercice 4](exercice4.ods)  
+[Exercice 4](files/exercice4.ods)  
