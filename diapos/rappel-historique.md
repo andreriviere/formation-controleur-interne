@@ -15,7 +15,7 @@ Elle se diversifie à partir du XVIIIème siècle :
 - Santé, environnement,...
 - Partout où l'on dispose de données.
 
-** Exemples : **
+**Exemples :**
 - Le recensement de la population
 - Les données fiscales
 - Les embouteillages
