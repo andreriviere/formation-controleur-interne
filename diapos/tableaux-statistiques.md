@@ -10,35 +10,35 @@
 
 ## Environnement du tableau.
 
-    - Quels sont le titre et la source ?
-    - De quand datent les données du tableau ?
+- Quels sont le titre et la source ?
+- De quand datent les données du tableau ?
 
 ----
 
 
 ## Lecture du tableau.
 
-    - Déterminer la population étudiée.
-    - Définir les variables d'intérêt.
-    - Repérer les unités utilisées.
-    - Donner un exemple de lecture d'un chiffre du tableau (une ou deux entrées ?).
-    - Quelle est l'idée générale qui se dégage du tableau ?
-    - Quels sont les chiffres atypiques du tableau ?
-    - Repérer la nature des questions posées.
+- Déterminer la population étudiée.
+- Définir les variables d'intérêt.
+- Repérer les unités utilisées.
+- Donner un exemple de lecture d'un chiffre du tableau (une ou deux entrées ?).
+- Quelle est l'idée générale qui se dégage du tableau ?
+- Quels sont les chiffres atypiques du tableau ?
+- Repérer la nature des questions posées.
 
 ----
 
 ## Analyse du tableau
 
-    - Rédiger une phrase d'introduction pour présenter le tableau.  
-    - Rédiger une description du tableau en s'intéressant aux données significatives.  
-    - Rédiger un commentaire des faits que ces données mettent en évidence.  
+- Rédiger une phrase d'introduction pour présenter le tableau.  
+- Rédiger une description du tableau en s'intéressant aux données significatives.  
+- Rédiger un commentaire des faits que ces données mettent en évidence.  
 
 ----
 
 ## Un exemple  
 
-[Un exemple](http://www.agro-montpellier.fr/cnam-lr/statnet/mod1/Lec1/M1L1_INT.htm)
+[Exploiter un tableau statistique](http://www.i-manuel.fr/PASTMG_ECOT/PASTMG_ECOTpart11dos14CO2fm1.htm?Mobile=1&Source=%2F_layouts%2Fmobile%2Fview.aspx%3FList%3D8ab2c4d7-8d38-4c0d-b77c-1408659e6834%26View%3Da841ad66-8424-42d0-84ec-62b3a5bfde65%26CurrentPage%3D1)
 
 ----
 
