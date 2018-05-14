@@ -4,7 +4,9 @@
 2. [Les puissances de 10](#/4/2)
 3. [Les règles de priorité des opérations](#/4/3)
 4. [La proportionnalité](#/4/4)
-5. [Exercices](#/4/5)
+5. [Les pourcentages](#/4/5)  
+6. [Les moyennes arithmétiques](#/4/6)  
+7. [Exercices](#/4/7)
 
 
 ----
@@ -53,7 +55,21 @@ Dans un tableau de proportionnalité, le rapport entre le nombre de la deuxième
 
 > ** Propriété : ** Dans un tableau de proportionnalité, les *produits en croix* sont égaux.   
 > Si b et d non nuls :  
-> a/b = c/d <=> a*d = b*c
+> a/b = c/d <=> a*d = b*c  
+
+----
+
+## Les pourcentages
+
+Pour calculer le pourcentage que représente la valeur a par rapport à la valeur b, on applique la formule :  
+> a/b\*100  
+
+----
+
+## Les moyennes arithmétechniques
+
+Formule de la moyenne arithémtique de n valeurs :  
+> Somme des n valeurs / n  
 
 ----
 
