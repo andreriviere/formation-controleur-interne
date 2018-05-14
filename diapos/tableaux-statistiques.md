@@ -38,11 +38,7 @@
 
 ## Un exemple  
 
-| N° exploitation | Taille (ha) | Age du chef d'exploitation (années) | Culture dominante | Nombre de personnes employées |
-| :---:  |  :---:   | :---:  |  :---:   | :---:  |
-| Sauvignon | 7 000 |
-| Sémillon | 3 000 |
-| Muscadelle | 1 000 |
+[Un exemple](http://www.agro-montpellier.fr/cnam-lr/statnet/mod1/Lec1/M1L1_INT.htm)
 
 ----
 
