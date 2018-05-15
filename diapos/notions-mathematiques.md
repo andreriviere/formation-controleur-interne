@@ -66,10 +66,12 @@ Pour calculer le pourcentage que représente la valeur a par rapport à la valeu
 
 ----
 
-## Les moyennes arithmétechniques
+## Les moyennes arithmétiques
 
-Formule de la moyenne arithémtique de n valeurs :  
+Formule de la moyenne arithmétique de n valeurs :  
 > Somme des n valeurs / n  
+
+[Cas de la moyenne pondérée](https://fr.wikipedia.org/wiki/Moyenne_pond%C3%A9r%C3%A9e) 
 
 ----
 
