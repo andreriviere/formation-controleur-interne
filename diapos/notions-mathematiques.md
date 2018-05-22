@@ -1,12 +1,12 @@
 # Rappels de notions de mathématiques
 
-1. [Les arrondis](#/4/1)  
-2. [Les puissances de 10](#/4/2)
-3. [Les règles de priorité des opérations](#/4/3)
-4. [La proportionnalité](#/4/4)
-5. [Les pourcentages](#/4/5)  
-6. [Les moyennes arithmétiques](#/4/6)  
-7. [Exercices](#/4/7)
+1. [Les arrondis](#/5/1)  
+2. [Les puissances de 10](#/5/2)
+3. [Les règles de priorité des opérations](#/5/3)
+4. [La proportionnalité](#/5/4)
+5. [Les pourcentages](#/5/5)  
+6. [Les moyennes arithmétiques](#/5/6)  
+7. [Exercices](#/5/7)
 
 
 ----
