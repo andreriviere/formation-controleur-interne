@@ -14,7 +14,7 @@
 > - Vabs = Va - Vd
 
 La variation absolue s'exprime dans la même unité que la grandeur.
-La variation absolue traduit moins bien l'importance de l'évolution que la *[variation relative.](#/1/2)*  
+La variation absolue traduit moins bien l'importance de l'évolution que la *[variation relative.](#/6/2)*  
 
 ----
 
@@ -39,12 +39,12 @@ La variation relative est un nombre sans unité, qui multipliée par cent peut s
 > Or Va = (1 + Vrel) \* Vd  
 > => Multiplicateur = 1 + Vrel  
 
-[Exemple à compléter](exemple-a-completer.ods)  
+[Exemple à compléter](files/exemple-a-completer.ods)  
 
 ----
 
 ## Quel indicateur faut-il utiliser ?  
-- Pour calculer une évolution, utiliser le [taux de variation](#/1/2). S'il est supérieur ou égal à 100%, le [multiplicateur](#/1/3) sera plus parlant.  
+- Pour calculer une évolution, utiliser le [taux de variation](#/6/2). S'il est supérieur ou égal à 100%, le [multiplicateur](#/6/3) sera plus parlant.  
 - Pour obtenir la valeur d'arrivée à partir de la valeur de départ et de l'évolution :  
     - Va = Vd + (taux_variation/100\*Vd) = Vd \* (1 + taux_variation/100)  
 - Inversement, pour obtenir la valeur de départ à partir de la valeur d'arrivée et de l'évolution :  
