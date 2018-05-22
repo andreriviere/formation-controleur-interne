@@ -1,10 +1,10 @@
 # Comment lire un tableau statistique ?
 
-1. [Environnement du tableau](#/3/1)  
-2. [Lecture du tableau](#/3/2)   
-3. [Analyse du tableau](#/3/3)  
-4. [Un exemple](#/3/4)  
-5. [Exercices](#/3/5)  
+1. [Environnement du tableau](#/4/1)  
+2. [Lecture du tableau](#/4/2)   
+3. [Analyse du tableau](#/4/3)  
+4. [Un exemple](#/4/4)  
+5. [Exercices](#/4/5)  
 
 ----
 

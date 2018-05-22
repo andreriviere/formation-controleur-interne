@@ -1,13 +1,13 @@
 # Les concepts statistiques
 
-  1. [La statistique](#/2/1)  
-  2. [La population](#/2/2)   
-  3. [Le caractère](#/2/3)   
-  4. [Les modalités du caractère](#/2/4)   
-  5. [Caractère qualitatif](#/2/5)   
-  6. [La variable statistique](#/2/6)   
-  7. [Schéma récapitulatif](#/2/7)
-  8. [Les effectifs](#/2/8)
+  1. [La statistique](#/3/1)  
+  2. [La population](#/3/2)   
+  3. [Le caractère](#/3/3)   
+  4. [Les modalités du caractère](#/3/4)   
+  5. [Caractère qualitatif](#/3/5)   
+  6. [La variable statistique](#/3/6)   
+  7. [Schéma récapitulatif](#/3/7)
+  8. [Les effectifs](#/3/8)
 
 
 

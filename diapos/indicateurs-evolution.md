@@ -1,9 +1,9 @@
 # Les indicateurs d'évolution
 
-1. [La variation absolue ou écart](#/1/1)
-2. [La variation relative (taux d'évolution)](#/1/2)
-3. [Le multiplicateur](#/1/3)
-4. [Quel indicateur faut-il utiliser ?](#/1/4)
+1. [La variation absolue ou écart](#/6/1)
+2. [La variation relative (taux d'évolution)](#/6/2)
+3. [Le multiplicateur](#/6/3)
+4. [Quel indicateur faut-il utiliser ?](#/6/4)
 
 ----
 

@@ -1,9 +1,9 @@
 # Les indices
 
-1. [Calcul d'un indice](#/2/1)
-2. [Passage de l'indice à l'évolution](#/2/2)
-3. [Les propriétés de l'indice](#/2/3)  
-4. [Liens utiles](#/2/4)
+1. [Calcul d'un indice](#/7/1)
+2. [Passage de l'indice à l'évolution](#/7/2)
+3. [Les propriétés de l'indice](#/7/3)  
+4. [Liens utiles](#/7/4)
 
 ----
 
