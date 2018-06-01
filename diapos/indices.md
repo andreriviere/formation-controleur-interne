@@ -15,7 +15,7 @@ Soit Vt la valeur de la variable à la date t et Vt0 la valeur de la variable à
 
 ----
 
-##Calcul d'un indice
+## Calcul d'un indice
 
 Il y a toujours une date de référence lorsqu'on parle d'un indice. La date de référence ou date de base (il s'agira souvent d'une année) est t0.
 L'indice à la date t0 vaut toujours 100.
