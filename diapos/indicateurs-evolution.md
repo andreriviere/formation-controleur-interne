@@ -2,8 +2,8 @@
 
 1. [La variation absolue ou écart](#/6/1)
 2. [La variation relative (taux d'évolution)](#/6/2)
-3. [Le multiplicateur](#/6/3)
-4. [Quel indicateur faut-il utiliser ?](#/6/4)
+3. [Le multiplicateur](#/6/4)
+4. [Quel indicateur faut-il utiliser ?](#/6/5)
 
 ----
 
@@ -28,6 +28,17 @@ La variation absolue traduit moins bien l'importance de l'évolution que la *[va
 La variation relative est un nombre sans unité, qui multipliée par cent peut s'exprimer en pourcentage. C'est le *taux d'évolution* ou *taux de variation*.  
 
 > - Taux_evolution = Vrel * 100.  
+
+----
+
+## La variation relative (taux d'évolution)
+
+<p id="piege"> ATTENTION PIEGE</p>
+<div id="souspiege"><p>Il ne faut pas confondre un ralentissement et une baisse.</p>
+
+<p>Si un taux de variation passe de 20% à 15%, il s'agit d'un ralentissement car le taux de variation, bien que plus faible, reste positif et donc la variable continue d'augmenter, plus faiblement qu'auparavant.</p>
+
+<p>Si un taux de variation est de -3%, il s'agit alors en effet d'une baisse car le taux est négatif, ce qui implique une diminution de la valeur de la variable étudiée.</p></div>
 
 ----
 
