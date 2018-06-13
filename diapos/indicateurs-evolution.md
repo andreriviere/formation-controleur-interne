@@ -4,6 +4,7 @@
 2. [La variation relative (taux d'évolution)](#/6/2)
 3. [Le multiplicateur](#/6/4)
 4. [Quel indicateur faut-il utiliser ?](#/6/5)
+5. [Exercices](#/6/6)
 
 ----
 
@@ -62,3 +63,23 @@ La variation relative est un nombre sans unité, qui multipliée par cent peut s
     - Vd = Va / (1 + taux_variation/100)  
 - La variation en points se calcule par différence entre deux pourcentages.  
 - Le calcul des évolutions successives se fait par le produit des multiplicateurs auquel on retire 1.  
+
+----  
+
+[Exercice 1](files/exercice13.ods)  
+
+[Exercice 2](files/exercice14.ods)  
+
+[Exercice 3](files/exercice15.ods)  
+
+[Exercice 4](files/exercice16.ods)  
+
+[Exercice 5](files/exercice17.ods)  
+
+[Exercice 6](files/exercice18.ods)  
+
+[Exercice 7](files/exercice19.ods)  
+
+[Exercice 8](files/exercice20.ods)  
+
+[Exercice 9](files/exercice21.ods)

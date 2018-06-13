@@ -5,6 +5,7 @@
 3. [Les propriétés de l'indice](#/7/4)  
 4. [Passage de deux indices à l'évolution](#/7/5)
 5. [Liens utiles](#/7/7)
+6. [Exercices](#/7/8)
 
 ----
 
@@ -63,3 +64,23 @@ Ces différents indices sont disponibles sur [www.insee.fr](https://www.insee.fr
 Par exemple,
 - [pour l’indice des prix à la consommation](https://www.insee.fr/fr/information/3128533?qserie=indice+des+prix+%C3%A0+la+consommation)
 - [pour l’indice de référence des loyers](https://www.insee.fr/fr/information/3128533?qserie=indice+de+r%C3%A9f%C3%A9rence+de+loyers)
+
+----  
+
+[Exercice 1](files/exercice22.ods)  
+
+[Exercice 2](files/exercice23.ods)  
+
+[Exercice 3](files/exercice24.ods)  
+
+[Exercice 4](files/exercice25.ods)  
+
+[Exercice 5](files/exercice26.ods)  
+
+[Exercice 6](files/exercice27.ods)  
+
+[Exercice 7](files/exercice28.ods)  
+
+[Exercice 8](files/exercice29.ods)  
+
+[Exercice 9](files/exercice30.ods)
