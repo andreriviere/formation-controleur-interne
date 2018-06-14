@@ -65,7 +65,7 @@ Par exemple,
 - [pour l’indice des prix à la consommation](https://www.insee.fr/fr/information/3128533?qserie=indice+des+prix+%C3%A0+la+consommation)
 - [pour l’indice de référence des loyers](https://www.insee.fr/fr/information/3128533?qserie=indice+de+r%C3%A9f%C3%A9rence+de+loyers)
 
-----  
+----
 
 [Exercice 1](files/exercice22.ods)  
 
@@ -80,7 +80,3 @@ Par exemple,
 [Exercice 6](files/exercice27.ods)  
 
 [Exercice 7](files/exercice28.ods)  
-
-[Exercice 8](files/exercice29.ods)  
-
-[Exercice 9](files/exercice30.ods)

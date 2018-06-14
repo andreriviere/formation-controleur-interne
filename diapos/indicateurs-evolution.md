@@ -64,7 +64,7 @@ La variation relative est un nombre sans unité, qui multipliée par cent peut s
 - La variation en points se calcule par différence entre deux pourcentages.  
 - Le calcul des évolutions successives se fait par le produit des multiplicateurs auquel on retire 1.  
 
-----  
+----
 
 [Exercice 1](files/exercice13.ods)  
 
