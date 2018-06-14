@@ -48,13 +48,13 @@ Les indices permettent des réévaluations de variables selon la formule :
 
 ## Passage de deux indices à l'évolution
 
-> Multiplicateur = I(t2/t0) / I(t1/t0)  
-> taux_variation entre t1 et t0 = 100 * ((I(t2/t0) / I(t1/t0)) - 1)
+> Multiplicateur entre t2 et t1 = I(t2/t0) / I(t1/t0)  
+> taux_variation entre t2 et t1 = 100 * ((I(t2/t0) / I(t1/t0)) - 1)
 
 En appliquant le principe de circularité de l'indice, on obtient :
 
-> Multiplicateur = I(t2/t1) / 100  
-> taux_variation entre t1 et t0 = 100 * ((I(t2/t1)/100) - 1)
+> Multiplicateur entre t2 et t1 = I(t2/t1) / 100  
+> taux_variation entre t2 et t1 = 100 * ((I(t2/t1)/100) - 1)
 
 ----
 
