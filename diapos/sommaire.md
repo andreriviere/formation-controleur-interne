@@ -19,4 +19,5 @@
 
 ## Session 3
 
-1. [Graphiques](#/8/0)
+1. [Graphiques](#/8/0)  
+2. [Indicateurs de tendance centrale](#/9/0)  

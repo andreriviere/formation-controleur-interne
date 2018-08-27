@@ -85,7 +85,7 @@ Les coordonnées de chaque point sont les suivantes : abscisse = valeur de la d
 
   4. Ne pas oublier les titres du graphique et des axes et la légende
 
----
+----
 
 ## Consignes
 

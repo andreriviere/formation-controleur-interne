@@ -10,9 +10,9 @@
 
 ## Le mode
 
-- Caractère qualitatif ou quantitatif discret : Le mode du caractère est la modalité qui possède la plus grande fréquence.
+-Caractère qualitatif ou quantitatif discret : Le mode du caractère est la modalité qui possède la plus grande fréquence.
 
-- Caractère quantitatif continu : Une fois les modalités regroupées en classe, la classe modale est celle qui possède le plus fort effectif par unité d'amplitude.
+-Caractère quantitatif continu : Une fois les modalités regroupées en classe, la classe modale est celle qui possède le plus fort effectif par unité d'amplitude.
 
 [Exemples](files/exemples-mode.odt)  
 
@@ -87,10 +87,20 @@ Tm = (1+T)^(1/n) - 1
 
 On appelle **ordre** du quantile, la part inférieure selon laquelle le quantile divise la population. Ainsi le quantile d'ordre 0,3 est la valeur du caractère pour laquelle on a 30 % de la population qui présente une valeur inférieure et 70 % une valeur supérieure ou égale.
 
+----
+
+## Médiane et quantiles
+
 Le principal quantile utilisé est la **médiane.** Il s’agit de la valeur de la variable qui sépare la population en deux parts égales : en dessous de cette valeur se situe 50 % de la population et au-dessus de cette valeur, se situe l’autre moitié.
 
 La médiane est le quantile d’ordre 0,5 = 50 %.
 
 Pour déterminer des quantiles sur une population, on doit pouvoir classer cette population pa ordre croissant sur les valeurs du caractère : **par conséquent les quantiles ne sont calculables que pour des caractères quantitatifs.**
 
-[Exemples](files/exemples-mediane-quantile.odt) 
+[Exemples](files/exemples-mediane-quantile.odt)  
+
+----
+
+## Exercices sur les indicateurs de tendance centrale
+
+[Exercices](files/exercices-indicateurs-tendance-centrale.odt)  
