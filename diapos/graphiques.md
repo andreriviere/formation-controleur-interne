@@ -77,13 +77,13 @@ Les coordonnées de chaque point sont les suivantes : abscisse = valeur de la d
 
 ### Pour tracer un graphique
 
-  1. Tracer tous les traits (axes des abscisses, ordonnées, courbe…) à la règle 
+  1. Tracer tous les traits (axes des abscisses, ordonnées, courbe…) **à la règle** 
 
   2. Commencer par tracer les axes et réfléchir à l’échelle la plus pertinente, les  variations doivent clairement apparaître mais pas de manière exagérée. Quand l’échelle est définie, la respecter sur tout le graphique 
 
   3. Faire un travail soigné
 
-  4. Ne pas oublier les titres du graphique et des axes et la légende
+  4. Ne pas oublier les **titres** du graphique et des axes et la **légende**
 
 ----
 
@@ -93,10 +93,10 @@ Les coordonnées de chaque point sont les suivantes : abscisse = valeur de la d
 
 Comme pour les commentaires de tableaux statistiques : aller du général au particulier.
 
-    1. Phrase d’introduction en précisant le phénomène (répartition, évolution ou classement) et en s’appuyant sur le titre (et éventuellement sur la source et le champ)
+1. Phrase d’introduction en précisant le phénomène (répartition, évolution ou classement) et en s’appuyant sur le titre (et éventuellement sur la source et le champ)
 
-    2. Présentation de la tendance générale
+2. Présentation de la tendance générale
 
-    3. Quelques commentaires sur des faits particuliers remarquables
+3. Quelques commentaires sur des faits particuliers remarquables
 
-    [Exemple](files/exemple-commentaire-graphique.odt)
+[Exemple](files/exemple-commentaire-graphique.odt)
