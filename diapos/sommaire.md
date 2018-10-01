@@ -21,3 +21,13 @@
 
 1. [Graphiques](#/8/0)  
 2. [Indicateurs de tendance centrale](#/9/0)  
+
+----
+
+## Session 4
+
+1. [Rappels mathématiques](#/10/0)  
+2. [Les moyennes](#/10/4)  
+3. [Les équations](#/10/12)  
+4. [La concentration](#/10/15)  
+5. [La régression](#/10/17)  

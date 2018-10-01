@@ -33,12 +33,6 @@
 
 .reveal .slides img {
     display : block;
-    float: left;
-    border: none;
-    background: none;
-    box-shadow: none;
-    margin-top: -100px;
-    height: 85px;
 }
 
 #piege{
