@@ -175,6 +175,80 @@ L’écart interquartile correspond donc à l'étendue de la série statistique 
 
 ----
 
-## Concentration et régression
+## Concentration
 
-[Fin du cours](files/finducours.odt)
+### Les déciles
+
+[Les quantiles](#9/6)  
+
+Si on ordonne une distribution de salaires, de revenus, de chiffre d’affaires, les déciles sont les valeurs qui partagent cette distribution en dix parties égales.
+Ainsi, pour une distribution de salaires :
+    • le premier décile (noté généralement D1) est le salaire au-dessous duquel se situent 10 % des salaires ;
+    • le neuvième décile (noté généralement D9) est le salaire au-dessous duquel se situent 90 % des salaires.
+Le premier décile est, de manière équivalente, le salaire au-dessus duquel se situent 90 % des salaires ; le neuvième décile est le salaire au-dessus duquel se situent 10 % des salaires.  
+
+----
+
+## Concentration
+
+### Les quartiles
+
+[Les quantiles](#9/6)  
+
+Si on ordonne une distribution de salaires, de revenus, de chiffre d’affaires, les quartiles sont les valeurs qui partagent cette distribution en quatre parties égales.
+Ainsi, pour une distribution de salaires :
+    • le premier quartile (noté généralement Q1) est le salaire au-dessous duquel se situent 25 % des salaires ;
+    • le deuxième quartile est le salaire au-dessous duquel se situent 50 % des salaires ; c’est la médiane ;
+    • le troisième quartile (noté généralement Q3) est le salaire au-dessous duquel se situent 75 % des salaires.
+Le premier quartile est, de manière équivalente, le salaire au-dessus duquel se situent 75 % des salaires ; le deuxième quartile est le salaire au-dessus duquel se situent 50 % des salaires, et le troisième quartile le salaire au-dessus duquel se situent 25 % des salaires.
+
+----
+
+## Concentration
+
+### L'écart-type
+
+L’écart-type sert à mesurer la dispersion, ou l’étalement, d’un ensemble de valeurs autour de leur moyenne. Plus l’écart-type est faible, plus la population est homogène.
+
+<img src="img/ecarttype.jpg" alt="Ecart type">
+
+----
+
+## Concentration
+
+### La variance
+
+**La variance est le carré de l’écart-type.**  
+
+----
+
+## Concentration
+
+### La covariance
+
+[Définition et exemple](files/covariance.odt)  
+
+----
+
+## Concentration
+
+### La covariance
+
+Le coefficient de variation (CV) est le rapport de l’écart-type à la moyenne.  
+Plus la valeur du coefficient de variation est élevée, plus la dispersion autour de la moyenne est grande. Il est généralement exprimé en pourcentage. Sans unité, il permet la comparaison de distributions de valeurs dont les échelles de mesure ne sont pas comparables.  
+
+----
+
+## Concentration
+
+### Indice de Gini
+
+indice mesurant le degré d’inégalité d’une distribution pour une population donnée. Il varie entre 0 et 1, la valeur 0 correspondant à l’égalité parfaite (tout le monde a le même niveau de vie), la valeur 1 à l’inégalité extrême (une personne a tout le revenu et les autres n’ont rien).  
+
+<img src="img/indicegini.jpg" alt="Indice Gini">
+
+----
+
+## Régression
+
+[Cours](files/courscomplet.odt)
