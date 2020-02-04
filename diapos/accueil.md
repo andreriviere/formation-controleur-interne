@@ -9,7 +9,7 @@
 
 </header>
 
-<main role="main" id="main-content">
+<main role="main">
 
 <a id="main-content" tabindex="-1"></a>
 
