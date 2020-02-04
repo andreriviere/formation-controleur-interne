@@ -1358,14 +1358,6 @@ body {
 .reveal .speaker-notes.visible:not(:empty) {
   display: block; }
 
-  #skip-link {
-          position: absolute;
-          left: -99999rem;
-      }
-      #skip-link:focus {
-          position: static;
-      }
-
 @media screen and (max-width: 1024px) {
   .reveal .speaker-notes {
     font-size: 14px; } }

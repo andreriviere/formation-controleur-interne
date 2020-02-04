@@ -44,7 +44,13 @@
   float: left;
 }
 
-
+#skip-link {
+  position: absolute;
+  left: -99999rem;
+}
+#skip-link:focus {
+  position: static;
+}
 
 .reveal .slides {
     font-size: 30px;
