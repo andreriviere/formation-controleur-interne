@@ -5,7 +5,7 @@
 
 ![Insee logo](https://www.insee.fr/static/img/logo-insee-header.png "insee logo")
 
-<h1>Cours de statistiques</h1>
+\\#Cours de statistiques
 
 </header>
 
