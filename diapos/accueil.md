@@ -1,19 +1,7 @@
 
-<header role="banner">
-
-<a href="#main-content" id="skip-link">Aller au contenu principal</a>
 
 ![Insee logo](https://www.insee.fr/static/img/logo-insee-header.png "insee logo")
 
-<h1>Cours de statistiques</h1>
-
-</header>
-
-<main role="main">
-
-<a id="main-content" tabindex="-1"></a>
+# Cours de statistiques
 
 [André Rivière](https://trombi.insee.fr/servlet/UnePersonne?aID=SjNMMDYx) - [Tayeb Saadi](https://trombi.insee.fr/servlet/UnePersonne?aID=U1o5Vkcy)
-
-</main>
-Note : Laurem ipsum...

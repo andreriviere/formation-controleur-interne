@@ -39,7 +39,7 @@
 	.state-background,
 	.reveal .progress,
 	.reveal .backgrounds,
-	.reveal .slide-number {
+	.reveal .slide-number, .slide-menu-button {
 		display: none !important;
 	}
 
