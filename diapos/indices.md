@@ -54,7 +54,7 @@ Les indices permettent des réévaluations de variables selon la formule :
 En appliquant le principe de circularité de l'indice, on obtient :
 
 > Multiplicateur entre t2 et t1 = I(t2/t1) / 100  
-> taux_variation entre t2 et t1 = 100 * ((I(t2/t1)/100) - 1)
+> taux_variation entre t2 et t1 = 100 * ((I(t2/t1)/100) - 1) = I(t2/t1) - 100
 
 ----
 
