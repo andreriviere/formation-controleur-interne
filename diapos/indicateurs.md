@@ -74,8 +74,8 @@ Avant de calculer une moyenne, il convient donc de regarder la forme de la distr
 Le taux d'évolution moyen est égal à la moyenne géométrique des taux d'évolution sur une période donnée.
 
 Soit T le taux d'évolution d'une grandeur sur une période de n années et Tm le taux d'évolution moyen:  
-1 + Tm = (1 + T)^(1/n)  
-Tm = (1+T)^(1/n) - 1  
+1 + Tm/100 = (1 + T/100)^(1/n)  
+Tm = ((1+T/100)^(1/n) - 1) * 100
 
 [Exemples](files/exemples-taux-evolution-moyen.odt)  
 
