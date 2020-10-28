@@ -18,7 +18,9 @@
 
 ----
 
-## Les corrigés
+## Les corrigés  
+
+###Examens  
 
 [Corrigé 2014](files/corrigé_examen_2014.odt)  
 [Corrigé 2015](files/corrigé_examen_2015.odt)  
@@ -27,4 +29,14 @@
 [Corrigé 2018](files/corrigé_examen_2018.odt)  
 [Corrigé 2019](files/corrigé_examen_2019.odt)  
 Corrigé 2020 en cours  
-Corrigé devoir maison en cours  
+
+----
+
+## Les corrigés  
+
+###Autres  
+
+[Corrigé exercices session 1](files/1 Corrigés de la session 1 de statistiques CIN2020.odt) 
+[Corrigé exercices session 2](files/Correction Exercices de la session 2 de statistiques.odt)  
+Corrigé exercices session 3 en cours  
+[Corrigé devoir maison](files/corrigédm1.odt)  
