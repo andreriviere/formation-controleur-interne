@@ -13,6 +13,7 @@
 [Examen 2018](files/CIN_annales_2018.pdf)  
 [Examen 2019](files/CIN_annales_2019.pdf)  
 [Examen 2020](files/CIN_annales_2020.pdf)  
+[Devoir maison](files/DM1.pdf)  
 [Exercices supplémentaires](files/chekroun_statistiques.pdf)  
 [Exercices supplémentaires](files/2012-2013-Proba-TD1-StatDescriptive.pdf)  
 
