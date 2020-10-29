@@ -39,5 +39,5 @@ Corrigé 2020 en cours
 
 [Corrigé exercices session 1](files/1 Corrigés de la session 1 de statistiques CIN2020.odt)  
 [Corrigé exercices session 2](files/Correction Exercices de la session 2 de statistiques.odt)  
-Corrigé exercices session 3 en cours  
+[Corrigé exercices session 3 en cours](files/corrigé_exercices_session_3.odt)  
 [Corrigé devoir maison](files/corrigédm1.odt)  
