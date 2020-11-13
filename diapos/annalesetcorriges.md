@@ -39,7 +39,7 @@
 [Corrigé 2017](files/corrigé_examen_2017.odt)  
 [Corrigé 2018](files/corrigé_examen_2018.odt)  
 [Corrigé 2019](files/corrigé_examen_2019.odt)  
-Corrigé 2020 en cours  
+[Corrigé 2020 en cours](files/corrigé_examen_2020.odt)  
 
 ----
 
