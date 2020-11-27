@@ -11,6 +11,7 @@
 [Diapo dispersion](files/Dispersion.odp)  
 [Diapo graphiques](files/Graphiques.odp)  
 [Diapo évolution/indices](files/Evolution-indices.odp)  
+[Résumé cours](files/Resume_cours.odt)  
 
 ----
 
