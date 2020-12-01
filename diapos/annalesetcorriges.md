@@ -8,6 +8,10 @@
 
 ## Les cours  
 
+[Session 1](files/1 Cours de statistiques de la prépa CIN 2021.doc)  
+[Session 2](files/2 Cours de statistiques de la prépa CIN 2020.doc)  
+[Session 3](files/3 session 3 Cours et exercices.odt)  
+[Session 4](files/4 Cours de statistiques de la prépa CIN 2018.odt)  
 [Diapo dispersion](files/Dispersion.odp)  
 [Diapo graphiques](files/Graphiques.odp)  
 [Diapo évolution/indices](files/Evolution-indices.odp)  
@@ -31,7 +35,7 @@
 ## Les sujets  
 
 ### Autres  
-
+ 
 [Exercices fin de session 1](files/Exercice fin de session 1.odt)  
 [Exercices session 3](files/3 session 3 Cours et exercices.odt)  
 [Devoir maison](files/DM1.pdf)  
@@ -59,7 +63,7 @@
 
 ### Autres  
 
-[Corrigé exercices session 1](files/1 Corrigés de la session 1 de statistiques CIN2020.odt)  
+[Corrigé exercices session 1](files/1 Corrigés de la session 1 de statistiques CIN2020.doc)  
 [Corrigé exercices fin de session 1](files/corrigés-exercices-fin-de-session1.odt)  
 [Corrigé exercices session 2](files/Correction Exercices de la session 2 de statistiques.odt)  
 [Corrigé exercices session 3](files/corrigé_exercices_session_3.odt)  
